@@ -1,0 +1,6 @@
+{
+  "name": "Ubuntu Pad 5",
+  "description": "Native & PRoot Ubuntu Deployment, Boot Manager, and X11/VNC Launcher for Xiaomi Pad 5 (nabu).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
